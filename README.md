@@ -24,3 +24,5 @@ Dla osoby dorosłej wartość BMI wskazuje na:
   
   powyżej 40.0 - otyłość skrajną  
   
+  
+Choroby, które mogą występować przy nieodpowiedniej wartości BMI zależą od poziomu tego wskaźnika. Otyłość wiąże się z ryzykiem cukrzycy typu 2, nadciśnienia tętniczego, chorób serca, bezdechu sennego oraz udaru. Przy niedowadze natomiast mogą występować między innymi: niskie ciśnienie tętnicze, zaburzenia krążenia, osteoporoza, apatia, paradontoza.
